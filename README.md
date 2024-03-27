@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **All the Time**
 
-- 📝 I regularly write articles on [https://astronerd.flarum.cloud/](https://astronerd.flarum.cloud/)
+- 📝 I regularly write articles on [magiccode.flarum.cloud](https://magiccode.flarum.cloud)
 
-- 📫 How to reach me **https://astronerd.flarum.cloud/**
+- 📫 How to reach me **https://magiccode.flarum.cloud**
 
 - ⚡ Fun fact **Blubb**
 
